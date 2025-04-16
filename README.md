@@ -1,4 +1,4 @@
-# Zimbabwe Job Scraper
+# Job Scraper
 
 A Python-based web scraper that automatically extracts job listings from VacancyMail Zimbabwe and saves them to a CSV file for easy analysis.
 
@@ -91,7 +91,7 @@ If you encounter issues:
 
 ## License
 
-[Specify your license here]
+[LLOYD DONNEL CHOGARI]
 
 ## Disclaimer
 
