@@ -105,8 +105,7 @@ def schedule_scraping():
         time.sleep(1)
 
 if __name__ == "__main__":
-    # Uncomment the following line if you want to enable scheduling
-    #schedule_scraping()
+    schedule_scraping()
 
     # Run the scraper immediately
     scrape_jobs()
